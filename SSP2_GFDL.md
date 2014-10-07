@@ -6,7 +6,7 @@ Here's where we can include some info about the outputs. Let's experiment and us
 
 MAP
 
-Here's the map text.
+## Here's the map text.
 
 EXPLORE
 
