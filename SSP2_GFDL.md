@@ -10,4 +10,4 @@ Here's the map text
 
 EXPLORE
 
-And here's the text for our explore section
+And here's the text for **our explore section**
