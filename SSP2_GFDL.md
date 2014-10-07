@@ -1,15 +1,13 @@
-First text. But what if we want to have a newline without going to the next section? 
-
-Let's use a custom schema to set up a splitting character. How about
+We are writing something here about the scenario at large. This shows up at the top
 
 OUTPUTS
 
-Second text
+Here's where we can include some info about the outputs. Let's experiment and use a [link](somewhere.com)
 
 MAP
 
-Third text
+Here's the map text
 
 EXPLORE
 
-Fourth text
+And here's the text for our explore section
