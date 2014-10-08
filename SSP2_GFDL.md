@@ -6,15 +6,7 @@ Here's where we can include some info about the outputs. Let's experiment and us
 
 MAP
 
-Here's the map text. Maybe someone had a great quote about this map:
-
-> If you can fill the unforgiving minute
-
-> With sixty seconds’ worth of distance run,
-
-> Yours is the Earth and everything that’s in it,
-
-> And—which is more—you’ll be a Man, my son.
+Here's the map text. Here's _another way to do italics_
 
 EXPLORE
 
