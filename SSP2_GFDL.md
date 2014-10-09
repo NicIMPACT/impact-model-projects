@@ -1,4 +1,4 @@
-## Here is the scenario intro text. SSP2-GFDL is a scenario representing a fairway assumption about _GDP_ and **climate** change with the added condition that root and tuber production in Europe is severly limited by *Phytophthora infestans*
+Here is the scenario intro text. SSP2-GFDL is a scenario representing a fairway assumption about _GDP_ and **climate** change with the added condition that root and tuber production in Europe is severly limited by *Phytophthora infestans*
 
 OUTPUTS
 
