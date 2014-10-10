@@ -19,7 +19,7 @@ ifpri-impact-data
 > - [Scenario#1 Name,id]
 > - [Scenario#2 Name,id]
    
-3. Use the tag 'display' to have this project on the main page
+3. Use the tag, 'display', to have this project appear on the main page
 4. Scenario id's should use the scenario identifier with underscores replacing dashes
 5. Save & Commit
 
