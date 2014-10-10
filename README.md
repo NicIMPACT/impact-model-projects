@@ -21,7 +21,7 @@ ifpri-impact-data
    
 3. Use the tag 'display' to have this project on the main page
 4. Scenario id's should use the scenario identifier with underscores replacing dashes
-5. Save
+5. Save & Commit
 
 ### To create a new scenario
 
@@ -42,7 +42,7 @@ ifpri-impact-data
 > 
 > [Explore text]
 
-4. Save
+4. Save & Commit
    
 
 
