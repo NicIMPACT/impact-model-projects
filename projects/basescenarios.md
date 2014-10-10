@@ -1,6 +1,6 @@
 Base Scenarios
 TAGS
-SSP2,europe,climate-change
+SSP2,europe,climate-change,display
 TEXT
 Let's write about the Base Scenarios here
 SCENARIOS
