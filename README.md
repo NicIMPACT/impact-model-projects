@@ -1,6 +1,10 @@
 ifpri-impact-data
 =================
 
+## Prose
+
+Edit files with prose at: http://prose.io/#developmentseed/ifpri-impact-data/
+
 ### To create a new project:
 
 1. Create a new `.md` file in the `projects` folder.
