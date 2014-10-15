@@ -2,7 +2,7 @@ Base Scenarios
 TAGS
 SSP2,europe,climate-change,display
 IMAGE
-https://cloud.githubusercontent.com/assets/306782/4651981/c44bd396-54a0-11e4-8fb9-22e9e2bf0ca8.png
+https://cloud.githubusercontent.com/assets/306782/4652506/7c191516-54a5-11e4-8b51-5e9a8c363c4b.png
 TEXT
 Let's write about the Base Scenarios here
 SCENARIOS
