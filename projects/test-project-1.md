@@ -2,7 +2,7 @@ Base Scenarios
 TAGS
 SSP2,europe,climate-change,display
 TEXT
-Let's write about the Base Scenarios here
+Vestibulum ac sollicitudin orci, sed pretium turpis. Duis nulla ex, facilisis eget nisi in, pharetra faucibus tortor. Nulla efficitur vehicula ex at cursus. Duis at porta ex. Aenean in arcu nunc. Aliquam sodales quam eleifend, interdum ipsum sed, consequat ante. Phasellus pellentesque consequat massa vel blandit. Donec ullamcorper laoreet hendrerit. 
 SCENARIOS
 - Get French Denim Leather,SSP2_GFDL
 - Hot Germany Every Month,SSP2_HGEM
