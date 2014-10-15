@@ -11,3 +11,6 @@ Here's the map text. Here's _another way to do italics_
 EXPLORE
 
 And here's the text for **our explore section**.
+
+IMAGE
+image
