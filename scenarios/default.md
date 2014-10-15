@@ -3,3 +3,5 @@ This is the default text template. We fall back here if we can't find text for t
 OUTPUTS
 MAP
 EXPLORE
+IMAGE
+image
