@@ -1,6 +1,6 @@
 Base Scenarios
 TAGS
-SSP2,europe,climate-change,display
+Europe
 IMAGE
 https://cloud.githubusercontent.com/assets/306782/4652440/049421f2-54a5-11e4-94f6-013e75566537.png
 TEXT
