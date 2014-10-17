@@ -1,6 +1,6 @@
 Base Scenarios
 TAGS
-SSP2,europe,climate-change,display
+Disease
 IMAGE
 https://cloud.githubusercontent.com/assets/306782/4652557/e93a31b6-54a5-11e4-8b7c-4d0bc8241a57.jpg
 TEXT
