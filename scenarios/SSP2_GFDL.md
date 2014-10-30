@@ -18,3 +18,9 @@ https://cloud.githubusercontent.com/assets/306782/4651981/c44bd396-54a0-11e4-8fb
 POPUP
 
 This information shows up in the pop-up.
+
+RELATED
+- SSP2_HGEM,SSP2_HGEM
+- SSP2_IPSL,SSP2_IPSL
+- SSP2_MIROC,SSP2_MIROC
+- SSP2_NoCC,SSP2_NoCC
