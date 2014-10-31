@@ -1,0 +1,13 @@
+Fish to 2030
+TAGS
+Europe
+IMAGE
+https://cloud.githubusercontent.com/assets/306782/4651981/c44bd396-54a0-11e4-8fb9-22e9e2bf0ca8.png
+TEXT
+This study employs IFPRI’s IMPACT model to generate projections of global fish supply and demand. IMPACT covers the world in 115 model regions for a range of agricultural commodities, to which fish and fish products are added for this study.
+SCENARIOS
+- Scenario 1,SSP2_GFDL
+- Scenario 2,SSP2_HGEM
+- Scenario 3,SSP2_IPSL
+- Scenario 4,SSP2_MIROC
+- Scenario 5,SSP2_NoCC

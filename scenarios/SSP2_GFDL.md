@@ -1,4 +1,4 @@
-Here is the scenario intro text. SSP2-GFDL is a scenario representing a fairway assumption about _GDP_ and **climate** change with the added condition that root and tuber production in Europe is severly limited by *Phytophthora infestans*
+Scenario 2 investigates how expanded use of fish processing waste in fishmeal and fish oil production might affect the market of these fish-based products, where, in addition to the baseline countries, all countries that produce fishmeal or fish oil are now assumed to have the option to use waste in their production starting in 2011. Aquaculture expansion has relied in large part on improvements surrounding feed, including feed composition for nutrition and digestibility as well as cost effectiveness, genetics of fish, and feeding techniques and practices.
 
 OUTPUTS
 
