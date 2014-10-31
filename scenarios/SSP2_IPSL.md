@@ -1,4 +1,4 @@
-Scenario 4 is a case where consumers in China expand their demand for certain fish products more aggressively than in the baseline case. The scenario is specified such that Chinese per capita consumption of high-value shrimp, crustaceans, and salmon in 2030 would be three times higher than in the baseline results for 2030 and that of mollusks double the baseline value. 
+SSP2_IPSL is a case where consumers in China expand their demand for certain fish products more aggressively than in the baseline case. The scenario is specified such that Chinese per capita consumption of high-value shrimp, crustaceans, and salmon in 2030 would be three times higher than in the baseline results for 2030 and that of mollusks double the baseline value. 
 
 OUTPUTS
 

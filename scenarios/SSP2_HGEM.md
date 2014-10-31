@@ -1,4 +1,4 @@
-Scenario 3 introduces a hypothetical major disease outbreak that would hit shrimp aquaculture in China and South and Southeast Asia and reduce their production by 35 percent in 2015. The model is used to simulate its impact on the global markets and on production in affected and unaffected countries between 2015 and 2030. 
+SSP2_HGEM introduces a hypothetical major disease outbreak that would hit shrimp aquaculture in China and South and Southeast Asia and reduce their production by 35 percent in 2015. The model is used to simulate its impact on the global markets and on production in affected and unaffected countries between 2015 and 2030. 
 
 OUTPUTS
 
