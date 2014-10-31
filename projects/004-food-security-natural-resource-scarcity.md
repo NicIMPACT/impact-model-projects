@@ -1,4 +1,4 @@
-Food Security in a World of Natural Resource Scarcity
+Food Security in Natural Resource Scarcity
 TAGS
 Asia
 IMAGE

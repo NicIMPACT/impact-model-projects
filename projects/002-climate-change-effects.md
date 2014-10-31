@@ -1,4 +1,4 @@
-Climate change effects on agriculture: Economic responses to biophysical shocks
+Climate change effects on agriculture
 TAGS
 Europe
 IMAGE
