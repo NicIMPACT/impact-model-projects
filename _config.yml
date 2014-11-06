@@ -1,0 +1,15 @@
+prose:
+  metadata:
+    projects:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+      - name: "tags"
+        field:
+          element: "text"
+          label: "Tags"
+      - name: "image"
+        field:
+          element: "text"
+          label: "Image"
