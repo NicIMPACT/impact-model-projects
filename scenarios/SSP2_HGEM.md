@@ -15,6 +15,9 @@ And here's the text for **our explore section**
 IMAGE
 https://cloud.githubusercontent.com/assets/306782/4652506/7c191516-54a5-11e4-8b51-5e9a8c363c4b.png
 
+POPUP
+This information shows up in the pop-up.
+
 RELATED
 - SSP2_HGEM,SSP2_HGEM
 - SSP2_IPSL,SSP2_IPSL
