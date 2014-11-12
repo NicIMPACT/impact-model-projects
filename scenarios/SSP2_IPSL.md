@@ -14,3 +14,11 @@ And here's the text for **our explore section**
 
 IMAGE
 https://cloud.githubusercontent.com/assets/306782/4652557/e93a31b6-54a5-11e4-8b7c-4d0bc8241a57.jpg
+
+POPUP
+
+RELATED
+- SSP2_GFDL,SSP2_GFDL
+- SSP2_HGEM,SSP2_HGEM
+- SSP2_MIROC,SSP2_MIROC
+- SSP2_NoCC,SSP2_NoCC
