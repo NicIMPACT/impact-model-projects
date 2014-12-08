@@ -58,8 +58,8 @@ This study was supported by the Bill and Melinda Gates Foundation, the CGIAR Res
 
 
 SCENARIOS
-- Scenario 1,SSP2_GFDL
-- Scenario 2,SSP2_HGEM
-- Scenario 3,SSP2_IPSL
-- Scenario 4,SSP2_MIROC
-- Scenario 5,SSP2_NoCC
+- SSP2_GFDL
+- SSP2_HGEM
+- SSP2_IPSL
+- SSP2_MIROC
+- SSP2_NoCC
