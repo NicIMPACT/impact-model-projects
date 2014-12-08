@@ -13,7 +13,7 @@ The DSSAT suite of crop simulation models was used to represent improved crop va
 The varieties are adopted in different regions according to the table below:
 
 | Crop | Trait | Countries of adoption |
-| --- | --- | ---- |
+| - | - | - |
 | Maize	| Drought tolerance (DT) | Angola, Benin, Ethiopia, Ghana, Kenya, Malawi, Mozambique, Uganda, United Republic of Tanzania, Zambia, Zimbabwe |
 | Maize	| Heat tolerance (HT) | Bangladesh, India, Nepal, Pakistan |
 | Wheat	| Drought tolerance | Iran, Turkey |
