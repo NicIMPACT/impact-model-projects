@@ -35,15 +35,21 @@ This study is part of the Global Futures and Strategic Foresight Project (GFSF),
 More info on GFSF can be found at: http://globalfutures.cgiar.org/presentations-publications/
 
 International Food Policy Research Institute (IFPRI): Sherman Robinson, Daniel Mason-D’Croz, Shahnila Islam, Richard Robertson, Arthur Gueneau, Nicola Cenacchi, Mark Rosegrant, and Keith Wiebe
+
 Centro Internacional de Agricultura Tropical (CIAT): Bernardo Creamer
+
 Centro Internacional de Mejoración de Maiz y Trigo (CIMMYT): Gbegbelegbe Sika
+
 Centro Internacional de la Papa (CIP): Guy Hareau, Ulrich Kleinwechter (formerly from CIP)
+
 International Crops Research Institute for the Semi-Arid Tropics (ICRISAT): Swamikannu Nedumaran 
+
 International Rice Research Institute (IRRI): Khondoker Mottaleb (formerly from IRRI)
 
 CONTACTS
 
 Corresponding author: Sherman Robinson - s.robinson@cgiar.org
+
 Global Futures Program Manager: Keith Wiebe - k.wiebe@cgiar.org
 
 ACKNOWLEDGEMENTS 
