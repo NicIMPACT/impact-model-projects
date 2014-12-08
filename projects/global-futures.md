@@ -34,23 +34,17 @@ AUTHORS AND COLLABORATORS
 This study is part of the Global Futures and Strategic Foresight Project (GFSF), a collaborative effort led by IFPRI in partnership with eleven other CGIAR Centers: CIAT, CIMMYT, CIP, ICARDA, ICRAF, ICRISAT, IITA, ILRI, IRRI, IWMI and WorldFish. Team members represent a wide range of disciplines and expertise, including agricultural economics, crop modeling, animal sciences, hydrology, natural resource management, geographic information systems and computer science. The team also collaborates with leading climate, crop, and economic modelers from a variety of other institutions around the world through the Agricultural Model Intercomparison and Improvement Project (AgMIP). 
 More info on GFSF can be found at: http://globalfutures.cgiar.org/presentations-publications/
 
-International Food Policy Research Institute (IFPRI): Sherman Robinson, Daniel Mason-D’Croz, Shahnila Islam, Richard Robertson, Arthur Gueneau, Nicola Cenacchi, Mark Rosegrant, and Keith Wiebe
-
-Centro Internacional de Agricultura Tropical (CIAT): Bernardo Creamer
-
-Centro Internacional de Mejoración de Maiz y Trigo (CIMMYT): Gbegbelegbe Sika
-
-Centro Internacional de la Papa (CIP): Guy Hareau, Ulrich Kleinwechter (formerly from CIP)
-
-International Crops Research Institute for the Semi-Arid Tropics (ICRISAT): Swamikannu Nedumaran 
-
-International Rice Research Institute (IRRI): Khondoker Mottaleb (formerly from IRRI)
+- International Food Policy Research Institute (IFPRI): Sherman Robinson, Daniel Mason-D’Croz, Shahnila Islam, Richard Robertson, Arthur Gueneau, Nicola Cenacchi, Mark Rosegrant, and Keith Wiebe
+- Centro Internacional de Agricultura Tropical (CIAT): Bernardo Creamer
+- Centro Internacional de Mejoración de Maiz y Trigo (CIMMYT): Gbegbelegbe Sika
+- Centro Internacional de la Papa (CIP): Guy Hareau, Ulrich Kleinwechter (formerly from CIP)
+- International Crops Research Institute for the Semi-Arid Tropics (ICRISAT): Swamikannu Nedumaran 
+- International Rice Research Institute (IRRI): Khondoker Mottaleb (formerly from IRRI)
 
 CONTACTS
 
-Corresponding author: Sherman Robinson - s.robinson@cgiar.org
-
-Global Futures Program Manager: Keith Wiebe - k.wiebe@cgiar.org
+- Corresponding author: Sherman Robinson - s.robinson@cgiar.org
+- Global Futures Program Manager: Keith Wiebe - k.wiebe@cgiar.org
 
 ACKNOWLEDGEMENTS 
 
