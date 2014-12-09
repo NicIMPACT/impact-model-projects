@@ -1,21 +1,9 @@
-SSP2_IPSL is a case where consumers in China expand their demand for certain fish products more aggressively than in the baseline case. The scenario is specified such that Chinese per capita consumption of high-value shrimp, crustaceans, and salmon in 2030 would be three times higher than in the baseline results for 2030 and that of mollusks double the baseline value. 
+---
+published: false
+image: "https://cloud.githubusercontent.com/assets/306782/4652557/e93a31b6-54a5-11e4-8b7c-4d0bc8241a57.jpg"
+---
 
-OUTPUTS
-
-Here's where we can include some info about the outputs. Let's experiment and use a [link](somewhere.com)
-
-MAP
-
-Here's the map text
-
-EXPLORE
-
-And here's the text for **our explore section**
-
-IMAGE
-https://cloud.githubusercontent.com/assets/306782/4652557/e93a31b6-54a5-11e4-8b7c-4d0bc8241a57.jpg
-
-POPUP
+This scenario uses the middle of the road population and GDP projections with the GCM climate data from Institute Pierre-Simon Laplace (IPSL).
 
 RELATED
 - SSP2_GFDL,SSP2_GFDL
