@@ -13,3 +13,8 @@ prose:
         field:
           element: "text"
           label: "Image"
+    scenarios:
+      - name: "image"
+        field:
+          element: "text"
+          label: "Image"
