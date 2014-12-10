@@ -6,6 +6,7 @@ image: "https://cloud.githubusercontent.com/assets/306782/4652506/7c191516-54a5-
 In this scenario, a maize variety with heat tolerant traits is adopted throughout the target countries of adoption. Effects are simulated under the GFDL climate change scenario.
 
 RELATED
+- SSP2_GFDL
 - SSP2_GFDL_CBIOL1_CASS
 - SSP2_GFDL_DTOL_MAIZ
 - SSP2_GFDL_D_H_POT
