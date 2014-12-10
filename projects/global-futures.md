@@ -51,6 +51,7 @@ ACKNOWLEDGEMENTS
 This study was supported by the Bill and Melinda Gates Foundation, the CGIAR Research Program on Policies, Institutions and Markets (PIM), and the CGIAR Research Program on Climate Change, Agriculture and Food Security (CCAFS).
 
 SCENARIOS
+- SSP2_GFDL
 - SSP2_GFDL_CBIOL1_CASS
 - SSP2_GFDL_DTOL_MAIZ
 - SSP2_GFDL_D_H_POT
