@@ -6,6 +6,7 @@ image: "https://cloud.githubusercontent.com/assets/306782/4652506/7c191516-54a5-
 In the mealybug cassava scenario, infestation of mealybug on cassava in the entire region under study is unchecked. Effects are simulated under the GFDL climate change scenario.
 
 RELATED
+- SSP2_GFDL
 - SSP2_GFDL_CBIOL1_CASS
 - SSP2_GFDL_DTOL_MAIZ
 - SSP2_GFDL_D_H_POT
