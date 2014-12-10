@@ -2,6 +2,7 @@
 published: false
 title: Global Futures
 image: "https://cloud.githubusercontent.com/assets/306782/4651981/c44bd396-54a0-11e4-8fb9-22e9e2bf0ca8.png"
+tags: "Global-Futures"
 ---
 
 A wealth of technologies and practices are available to increase the resilience of agro-ecosystems to both abiotic and biotic stresses. In order to prioritize research and investments in agriculture, more work needs to be done to explore the potential of various technologies to increase agricultural productivity, and alleviate poverty and hunger, for specific crops and under specific local soil and climatic conditions. This analysis needs to be performed at various levels of aggregation, from global to national to sub-national scales. This study analyzes the effects of improved varieties of maize, rice, wheat, potato, sorghum, and groundnut, as a mean to adapt to climate change. Specifically the focus is on varieties with characters of drought tolerance, heat tolerance or a combination of the two. Analysis also includes the effects of crop protection measures, with a focus on the mealybug pest on cassava. 
