@@ -18,3 +18,10 @@ prose:
         field:
           element: "text"
           label: "Image"
+      - name: "mapParam"
+        field:
+          element: multiselect
+          label: "Map Parameters"
+          help: "Select them below or add your own"
+          options: "mapParams.jsonp"
+          alterable: true
