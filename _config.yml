@@ -1,6 +1,10 @@
 prose:
   metadata:
     projects:
+      - name: "published"
+        field:
+          element: hidden
+          value: true
       - name: "title"
         field:
           element: "text"
@@ -14,6 +18,10 @@ prose:
           element: "text"
           label: "Image"
     scenarios:
+      - name: "published"
+        field:
+          element: hidden
+          value: true
       - name: "title"
         field:
           element: "text"
@@ -61,8 +69,6 @@ prose:
               value: "anmlyldxagg"
             - name: "Food Availability"
               value: "foodavailxagg"
-            - name: "Income"
-              value: "gdpxagg"
             - name: "Total Demand"
               value: "qdxagg"
             - name: "Export Share of Production"
@@ -111,8 +117,6 @@ prose:
               value: "anmlyldxagg"
             - name: "Food Availability"
               value: "foodavailxagg"
-            - name: "Income"
-              value: "gdpxagg"
             - name: "Total Demand"
               value: "qdxagg"
             - name: "Export Share of Production"
@@ -174,8 +178,6 @@ prose:
               value: "anmlyldxagg"
             - name: "Food Availability"
               value: "foodavailxagg"
-            - name: "Income"
-              value: "gdpxagg"
             - name: "Total Demand"
               value: "qdxagg"
             - name: "Export Share of Production"
@@ -225,7 +227,7 @@ prose:
         field:
           element: select
           label: "Explore View Comparison Scenario"
-          help: "Select a comparison scenario view or type a scenario name and id separated by a comma. e.g. \"SSP2-GFDL,ssp2_gfdl\""
+          help: "Select a default comparison scenario"
           options:
             - name: "SSP2-GFDL"
               value: "SSP2-GFDL,ssp2_gfdl"
