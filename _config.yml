@@ -23,5 +23,5 @@ prose:
           element: multiselect
           label: "Map Parameters"
           help: "Select them below or add your own"
-          options: "https://raw.githubusercontent.com/developmentseed/ifpri-impact-data/master/options/params.js?callback=params"
+          options: "https://rawgit.com/developmentseed/ifpri-impact-data/master/options/params.js?callback=params"
           alterable: true
