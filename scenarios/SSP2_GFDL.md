@@ -15,9 +15,7 @@ mapParam:
   - tareaxagg
 title: "SSP2-GFDL"
 exploreDefaultGroup: cereals
-exploreScenarioComp: 
-  - ""
-  - ssp2_hgem
+exploreScenarioComp: ssp2_nocc
 outputsNonCommodShow: 
   - percapkcalxagg
   - populationatriskxagg
@@ -38,7 +36,6 @@ project: baseline
 related: 
   - ssp2_hgem
   - ssp2_miroc
-  - ssp2_ipsl
 ---
 
 This scenario uses the middle of the road population and GDP projections with the GCM climate data from the Global Fluid Dynamics Laboratory of the National Oceanic and Atmospheric Administration (NOAA).
