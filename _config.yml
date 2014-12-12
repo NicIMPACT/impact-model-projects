@@ -20,7 +20,7 @@ prose:
           label: "Title"
       - name: "project"
         field:
-          element: "test"
+          element: "text"
           label: "Project"
           help: "Enter the project name and id separated by a comma"
           placeholder: "Project Title, project-id"
