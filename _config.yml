@@ -14,9 +14,13 @@ prose:
           element: "text"
           label: "Image"
     scenarios:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
       - name: "project"
         field:
-          element: "textarea"
+          element: "test"
           label: "Project"
           help: "Enter the project name and id separated by a comma"
           placeholder: "Project Title, project-id"
@@ -24,19 +28,18 @@ prose:
         field:
           element: multiselect
           label: "Related Scenarios"
-          help: "Select base scenarios or type a scenario name and id separated by a comma"
-          placeholder: "Scenario Title, scenario-id"
+          help: "Select base scenarios or type a scenario name and id separated by a comma (SSP2-GFDL,ssp2_gfdl)"
           options:
             - name: "SSP2-GFDL"
-              value: "ssp2_gfdl"
+              value: "SSP2-GFDL,ssp2_gfdl"
             - name: "SSP2-HGEM"
-              value: "ssp2_hgem"
+              value: "SSP2-HGEM,ssp2_hgem"
             - name: "SSP2-MIROC"
-              value: "ssp2_miroc"
+              value: "SSP2-MIROC,ssp2_miroc"
             - name: "SSP2-IPSL"
-              value: "ssp2_ipsl"
+              value: "SSP2-IPSL,ssp2_ipsl"
             - name: "SSP2-NoCC"
-              value: "ssp2_nocc"
+              value: "SSP2-NoCC,ssp2_nocc"
           alterable: true
       - name: "image"
         field:
