@@ -14,6 +14,20 @@ prose:
           element: "text"
           label: "Image"
     scenarios:
+      - name: "project"
+        field:
+          element: "textarea"
+          label: "Project"
+          help: "Enter the project name and id separated by a comma"
+          placeholder: "Project Title, project-id"
+      - name: "related"
+        field:
+          element: multiselect
+          label: "Related Scenarios"
+          help: "Select base scenarios or type a scenario name and id separated by a comma"
+          placeholder: "Scenario Title, scenario-id"
+          options: "https://rawgit.com/developmentseed/ifpri-impact-data/master/options/scenarios.js?callback=scenarios"
+          alterable: true
       - name: "image"
         field:
           element: "text"
@@ -22,7 +36,7 @@ prose:
         field:
           element: multiselect
           label: "Map Parameters"
-          help: "Select them below or add your own"
+          help: "Select them from the dropdown or add your own"
           options: "https://rawgit.com/developmentseed/ifpri-impact-data/master/options/params.js?callback=params"
           alterable: true
       - name: "mapDefaultGroup"
