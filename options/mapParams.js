@@ -1,5 +1,0 @@
-params(
-[ {"name": "Animal Numbers", "value": "anmlnumxagg"},
-{"name": "Livestock Feed Demand", "value": "QLXAgg"},
-{"name": "Total Yield", "value": "TYldXAgg"}]
-)
