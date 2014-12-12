@@ -25,3 +25,13 @@ prose:
           help: "Select them below or add your own"
           options: "https://rawgit.com/developmentseed/ifpri-impact-data/master/options/params.js?callback=params"
           alterable: true
+      - name: "mapDefaultGroup"
+        field:
+          element: select
+          label: "Default Map Group"
+          options: "https://rawgit.com/developmentseed/ifpri-impact-data/master/options/groups.js?callback=groups"
+      - name: "mapDefaultParam"
+        field:
+          element: select
+          label: "Default Map Parameter"
+          options: "https://rawgit.com/developmentseed/ifpri-impact-data/master/options/params.js?callback=params"
