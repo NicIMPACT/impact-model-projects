@@ -6,6 +6,8 @@ mapDefaultGroup: roots_tubers
 mapDefaultParam: tyldxagg
 exploreDefaultGroup: animal_products
 exploreScenarioComp: ssp2_gfdl
+mapParam: 
+  - tyldxagg
 ---
 
 The CBIOL1 cassava scenario simulates a situation where Thailand, the world leader in cassava production, adopts aggressively a technology to treat the mealybug infestation. China also follows Thailand’s adoption of the biological controls. Effects are simulated under the GFDL climate change scenario.
