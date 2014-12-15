@@ -5,8 +5,8 @@ image: "https://cloud.githubusercontent.com/assets/306782/4651981/c44bd396-54a0-
 tags:
   - "global-futures"
 scenarios:
-  - ssp2_gfdl
-  - ssp2_nocc
+  - SSP2_GFDL
+  - SSP2_NoCC
   - SSP2_GFDL_CBIOL1_CASS
   - SSP2_GFDL_DTOL_MAIZ
   - SSP2_GFDL_D_H_POT
