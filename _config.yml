@@ -11,8 +11,13 @@ prose:
           label: "Title"
       - name: "tags"
         field:
-          element: "text"
+          element: multiselect
           label: "Tags"
+          help: "Select or enter tag names"
+          options:
+            - name: "baseline"
+              value: "baseline"
+          alterable: true
       - name: "image"
         field:
           element: "text"
