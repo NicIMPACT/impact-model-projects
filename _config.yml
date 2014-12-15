@@ -26,18 +26,18 @@ prose:
         field:
           element: multiselect
           label: "Scenarios"
-          help: "Select base scenarios or type a scenario id e.g. \"ssp2_gfdl\""
+          help: "Select base scenarios or type a scenario id e.g. \"ssp2_gfdl\". Ensure that this matches the file name in the scenarios folder"
           options:
             - name: "SSP2-GFDL"
-              value: "ssp2_gfdl"
+              value: "SSP2_GFDL"
             - name: "SSP2-HGEM"
-              value: "ssp2_hgem"
+              value: "SSP2_HGEM"
             - name: "SSP2-MIROC"
-              value: "ssp2_miroc"
+              value: "SSP2_MIROC"
             - name: "SSP2-IPSL"
-              value: "ssp2_ipsl"
+              value: "SSP2_IPSL"
             - name: "SSP2-NoCC"
-              value: "ssp2_nocc"
+              value: "SSP2_NoCC"
           alterable: true
     scenarios:
       - name: "published"
@@ -71,10 +71,6 @@ prose:
             - name: "SSP2-NoCC"
               value: "ssp2_nocc"
           alterable: true
-      - name: "image"
-        field:
-          element: "text"
-          label: "Image"
       - name: "outputsCommodShow"
         field:
           element: multiselect
