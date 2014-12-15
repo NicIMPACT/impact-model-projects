@@ -4,10 +4,12 @@ image: "https://cloud.githubusercontent.com/assets/306782/4652506/7c191516-54a5-
 title: Untitled
 mapDefaultGroup: cereals
 mapDefaultParam: tyldxagg
-exploreDefaultGroup: animal_products
+exploreDefaultGroup: cereals
 exploreScenarioComp: ssp2_gfdl
 mapParam: 
   - tyldxagg
+exploreRegAgg: agg_continent
+exploreRegionValue: africa
 ---
 
 In this scenario, a maize variety with drought tolerant traits is adopted throughout the target countries of adoption. Effects are simulated under the GFDL climate change scenario.
