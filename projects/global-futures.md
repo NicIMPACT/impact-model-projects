@@ -2,10 +2,9 @@
 published: false
 title: Global Futures
 image: "https://cloud.githubusercontent.com/assets/306782/4651981/c44bd396-54a0-11e4-8fb9-22e9e2bf0ca8.png"
-tags: 
+tags:
   - "global-futures"
-  - "Global-Futures"
-scenarios: 
+scenarios:
   - ssp2_gfdl
   - ssp2_nocc
   - SSP2_GFDL_CBIOL1_CASS
@@ -18,7 +17,7 @@ scenarios:
   - SSP2_NOCC_CBIOL3_CASS
 ---
 
-A wealth of technologies and practices are available to increase the resilience of agro-ecosystems to both abiotic and biotic stresses. In order to prioritize research and investments in agriculture, more work needs to be done to explore the potential of various technologies to increase agricultural productivity, and alleviate poverty and hunger, for specific crops and under specific local soil and climatic conditions. This analysis needs to be performed at various levels of aggregation, from global to national to sub-national scales. This study analyzes the effects of improved varieties of maize, rice, wheat, potato, sorghum, and groundnut, as a mean to adapt to climate change. Specifically the focus is on varieties with characters of drought tolerance, heat tolerance or a combination of the two. Analysis also includes the effects of crop protection measures, with a focus on the mealybug pest on cassava. 
+A wealth of technologies and practices are available to increase the resilience of agro-ecosystems to both abiotic and biotic stresses. In order to prioritize research and investments in agriculture, more work needs to be done to explore the potential of various technologies to increase agricultural productivity, and alleviate poverty and hunger, for specific crops and under specific local soil and climatic conditions. This analysis needs to be performed at various levels of aggregation, from global to national to sub-national scales. This study analyzes the effects of improved varieties of maize, rice, wheat, potato, sorghum, and groundnut, as a mean to adapt to climate change. Specifically the focus is on varieties with characters of drought tolerance, heat tolerance or a combination of the two. Analysis also includes the effects of crop protection measures, with a focus on the mealybug pest on cassava.
 
 METHODOLOGY
 
@@ -45,14 +44,14 @@ The varieties are adopted in different regions according to the table below:
 
 AUTHORS AND COLLABORATORS
 
-This study is part of the Global Futures and Strategic Foresight Project (GFSF), a collaborative effort led by IFPRI in partnership with eleven other CGIAR Centers: CIAT, CIMMYT, CIP, ICARDA, ICRAF, ICRISAT, IITA, ILRI, IRRI, IWMI and WorldFish. Team members represent a wide range of disciplines and expertise, including agricultural economics, crop modeling, animal sciences, hydrology, natural resource management, geographic information systems and computer science. The team also collaborates with leading climate, crop, and economic modelers from a variety of other institutions around the world through the Agricultural Model Intercomparison and Improvement Project (AgMIP). 
+This study is part of the Global Futures and Strategic Foresight Project (GFSF), a collaborative effort led by IFPRI in partnership with eleven other CGIAR Centers: CIAT, CIMMYT, CIP, ICARDA, ICRAF, ICRISAT, IITA, ILRI, IRRI, IWMI and WorldFish. Team members represent a wide range of disciplines and expertise, including agricultural economics, crop modeling, animal sciences, hydrology, natural resource management, geographic information systems and computer science. The team also collaborates with leading climate, crop, and economic modelers from a variety of other institutions around the world through the Agricultural Model Intercomparison and Improvement Project (AgMIP).
 More info on GFSF can be found at: http://globalfutures.cgiar.org/presentations-publications/
 
 - International Food Policy Research Institute (IFPRI): Sherman Robinson, Daniel Mason-D’Croz, Shahnila Islam, Richard Robertson, Arthur Gueneau, Nicola Cenacchi, Mark Rosegrant, and Keith Wiebe
 - Centro Internacional de Agricultura Tropical (CIAT): Bernardo Creamer
 - Centro Internacional de Mejoración de Maiz y Trigo (CIMMYT): Gbegbelegbe Sika
 - Centro Internacional de la Papa (CIP): Guy Hareau, Ulrich Kleinwechter (formerly from CIP)
-- International Crops Research Institute for the Semi-Arid Tropics (ICRISAT): Swamikannu Nedumaran 
+- International Crops Research Institute for the Semi-Arid Tropics (ICRISAT): Swamikannu Nedumaran
 - International Rice Research Institute (IRRI): Khondoker Mottaleb (formerly from IRRI)
 
 CONTACTS
@@ -60,6 +59,6 @@ CONTACTS
 - Corresponding author: Sherman Robinson - s.robinson@cgiar.org
 - Global Futures Program Manager: Keith Wiebe - k.wiebe@cgiar.org
 
-ACKNOWLEDGEMENTS 
+ACKNOWLEDGEMENTS
 
 This study was supported by the Bill and Melinda Gates Foundation, the CGIAR Research Program on Policies, Institutions and Markets (PIM), and the CGIAR Research Program on Climate Change, Agriculture and Food Security (CCAFS).
