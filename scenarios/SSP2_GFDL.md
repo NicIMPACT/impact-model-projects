@@ -30,8 +30,8 @@ outputsCommodShow:
   - foodavailxagg
   - qdxagg
   - qfxagg
-  - qmshxagg
-  - qnsh2xagg
+  - qsupxagg
+  - tareaxagg
 project: baseline
 related: 
   - ssp2_hgem
