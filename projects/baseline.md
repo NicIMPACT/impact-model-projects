@@ -2,10 +2,9 @@
 published: false
 title: IMPACT Baseline Scenarios
 image: "https://cloud.githubusercontent.com/assets/306782/4651981/c44bd396-54a0-11e4-8fb9-22e9e2bf0ca8.png"
-tags: 
+tags:
   - baseline
-  - Baseline
-scenarios: 
+scenarios:
   - ssp2_gfdl
   - ssp2_hgem
   - ssp2_miroc
@@ -17,7 +16,7 @@ The International Model for Policy Analysis of Agricultural Commodities and Trad
 
 METHODOLOGY
 
-As presented in more details in the methodology section of this webtool, the IMPACT model is a partial equilibrium, multi–commodity, multi-country model which generates projections of global food supply, demand, trade, and prices. In IMPACT, each country is linked to the rest of the world through international trade and demand is a function of prices, income, and population growth. Crop production is determined by crop and input prices, the rate of productivity growth, and water availability. 
+As presented in more details in the methodology section of this webtool, the IMPACT model is a partial equilibrium, multi–commodity, multi-country model which generates projections of global food supply, demand, trade, and prices. In IMPACT, each country is linked to the rest of the world through international trade and demand is a function of prices, income, and population growth. Crop production is determined by crop and input prices, the rate of productivity growth, and water availability.
 In the latest version of the IMPACT model, both the code and input data went through a major revision process. The main changes include:
 1.	Prices
 2.	Land Allocation Market
