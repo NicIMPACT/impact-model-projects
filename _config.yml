@@ -17,7 +17,7 @@ prose:
         field:
           element: "text"
           label: "Image"
-      - name: "related"
+      - name: "scenarios"
         field:
           element: multiselect
           label: "Scenarios"
