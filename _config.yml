@@ -277,3 +277,8 @@ prose:
           label: "Explore View Regional Filter Value"
           help: "Enter a value for the regional filter. e.g. \"usa\" or \"south_america\""
           placeholder: "afg"
+      - name: mapAggregation
+        field:
+          element: text
+          label: "Map Aggregation File"
+          placeholder: "default.csv"
