@@ -36,7 +36,7 @@ project: baseline
 related: 
   - ssp2_hgem
   - ssp2_miroc
-mapAggregation: "not-default.csv"
+mapAggregation: default.csv
 ---
 
 This scenario uses the middle of the road population and GDP projections with the GCM climate data from the Global Fluid Dynamics Laboratory of the National Oceanic and Atmospheric Administration (NOAA).
