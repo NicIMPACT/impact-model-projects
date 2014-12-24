@@ -13,10 +13,3 @@ exploreRegionValue: africa
 ---
 
 In this scenario, a maize variety with drought tolerant traits is adopted throughout the target countries of adoption. Effects are simulated under the GFDL climate change scenario.
-
-RELATED
-- SSP2_GFDL
-- SSP2_GFDL_CBIOL1_CASS
-- SSP2_GFDL_D_H_POT
-- SSP2_GFDL_HTOL_MAIZ
-- SSP2_GFDL_MealyBug_CASS
