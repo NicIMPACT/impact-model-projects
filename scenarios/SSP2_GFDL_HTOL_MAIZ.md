@@ -11,10 +11,3 @@ mapParam:
 ---
 
 In this scenario, a maize variety with heat tolerant traits is adopted throughout the target countries of adoption. Effects are simulated under the GFDL climate change scenario.
-
-RELATED
-- SSP2_GFDL
-- SSP2_GFDL_CBIOL1_CASS
-- SSP2_GFDL_DTOL_MAIZ
-- SSP2_GFDL_D_H_POT
-- SSP2_GFDL_MealyBug_CASS
