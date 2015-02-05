@@ -1,54 +1,52 @@
 ifpri-impact-data
 =================
 
-## Prose
+### Notes
 
-Edit files using Markdown at: http://prose.io/#developmentseed/ifpri-impact-data/
+Edit files using [Prose](http://prose.io/#developmentseed/ifpri-impact-data/)
+
+All text will later be parsed as [Markdown](http://daringfireball.net/projects/markdown/syntax) before rendering on the site.
+
+File metadata can be accessed via this button on the right side of all files:
+
+![metadata-button]()
 
 ### To create a new project:
 
 1. Create a new `.md` file in the `projects` folder.
-2. Use the following format
-> [Title]
+2. Use the following format for the text:
+
+> [Main description]
 > 
-> TAGS
+> METHODOLOGY
+> 
+> [Methodology]
 >
-> [tag1,tag2,...]
+> AUTHORS AND COLLABORATORS
 >
-> TEXT
+> [Authors and Collaborators]
 >
-> [main project text]
->
-> SCENARIOS
-> - [Scenario#1 Name,id]
-> - [Scenario#2 Name,id]
-   
-3. Use the tag, 'display', to have this project appear on the main page
-4. Scenario id's should use the scenario identifier with underscores replacing dashes
-5. Save & Commit
+> CONTACTS
+> 
+> Sherman Robinson - s.robinson@cgiar.org
+> 
+> ACKNOWLEDGEMENTS
+> 
+> [Acknowledgements]
+
+3. Specify tags, scenarios, and an image in the file metadata:
+
+![project-metadata]()
+
+4. Save & Commit
 
 ### To create a new scenario
 
-1. [Upload new data]()
+1. Upload new data
 2. Create a new `.md` file in the `scenario` folder.
-3. Use the following format
-> [Intro text]
->
-> OUTPUTS
->
-> [Outputs text]
-> 
-> MAP
-> 
-> [Map text]
-> 
-> EXPLORE
-> 
-> [Explore text]
+3. Insert scenario text into the file, no formatting requirements
+4. Select a variety of scenario defaults in the file metadata:
 
-4. Save & Commit
-   
+![scenario-metadata]()
 
-
-
-
+5. Save & Commit
