@@ -5,16 +5,40 @@ image: "https://cloud.githubusercontent.com/assets/306782/4651981/c44bd396-54a0-
 tags:
   - "global-futures"
 scenarios:
-  - SSP2_GFDL
-  - SSP2_NoCC
   - SSP2_GFDL_CBIOL1_CASS
-  - SSP2_GFDL_DTOL_MAIZ
+  - SSP2_GFDL_CBIOL2_CASS
+  - SSP2_GFDL_CBIOL3_CASS
   - SSP2_GFDL_D_H_POT
+  - SSP2_GFDL_D_H_WHEA
+  - SSP2_GFDL_D_H_Y_GN
+  - SSP2_GFDL_DTOL_GN
+  - SSP2_GFDL_DTOL_MAIZ
+  - SSP2_GFDL_DTOL_POT
+  - SSP2_GFDL_DTOL_RICE
+  - SSP2_GFDL_DTOL_WHEA
+  - SSP2_GFDL_HTOL_GN
   - SSP2_GFDL_HTOL_MAIZ
+  - SSP2_GFDL_HTOL_POT
+  - SSP2_GFDL_HTOL_WHEA
   - SSP2_GFDL_MealyBug_CASS
+  - SSP2_GFDL_DTOL_SOR
   - SSP2_NOCC_CBIOL1_CASS
   - SSP2_NOCC_CBIOL2_CASS
   - SSP2_NOCC_CBIOL3_CASS
+  - SSP2_NOCC_D_H_POT
+  - SSP2_NOCC_D_H_WHEA
+  - SSP2_NOCC_D_H_Y_GN
+  - SSP2_NOCC_DTOL_GN
+  - SSP2_NOCC_DTOL_MAIZ
+  - SSP2_NOCC_DTOL_POT
+  - SSP2_NOCC_DTOL_RICE
+  - SSP2_NOCC_DTOL_WHEA
+  - SSP2_NOCC_HTOL_GN
+  - SSP2_NOCC_HTOL_MAIZ
+  - SSP2_NOCC_HTOL_POT
+  - SSP2_NOCC_HTOL_WHEA
+  - SSP2_NOCC_MealyBug_CASS
+  - SSP2_NoCC_DTOL_SOR
 ---
 
 A wealth of technologies and practices are available to increase the resilience of agro-ecosystems to both abiotic and biotic stresses. In order to prioritize research and investments in agriculture, more work needs to be done to explore the potential of various technologies to increase agricultural productivity, and alleviate poverty and hunger, for specific crops and under specific local soil and climatic conditions. This analysis needs to be performed at various levels of aggregation, from global to national to sub-national scales. This study analyzes the effects of improved varieties of maize, rice, wheat, potato, sorghum, and groundnut, as a mean to adapt to climate change. Specifically the focus is on varieties with characters of drought tolerance, heat tolerance or a combination of the two. Analysis also includes the effects of crop protection measures, with a focus on the mealybug pest on cassava.
