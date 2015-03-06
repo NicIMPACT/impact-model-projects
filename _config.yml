@@ -1,0 +1,284 @@
+prose:
+  metadata:
+    projects:
+      - name: "published"
+        field:
+          element: hidden
+          value: true
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+      - name: "tags"
+        field:
+          element: multiselect
+          label: "Tags"
+          help: "Select or enter tag names"
+          options:
+            - name: "baseline"
+              value: "baseline"
+          alterable: true
+      - name: "image"
+        field:
+          element: "text"
+          label: "Image"
+      - name: "scenarios"
+        field:
+          element: multiselect
+          label: "Scenarios"
+          help: "Select base scenarios or type a scenario id e.g. \"ssp2_gfdl\". Ensure that this matches the file name in the scenarios folder"
+          options:
+            - name: "SSP2-GFDL"
+              value: "SSP2_GFDL"
+            - name: "SSP2-HGEM"
+              value: "SSP2_HGEM"
+            - name: "SSP2-MIROC"
+              value: "SSP2_MIROC"
+            - name: "SSP2-IPSL"
+              value: "SSP2_IPSL"
+            - name: "SSP2-NoCC"
+              value: "SSP2_NoCC"
+          alterable: true
+    scenarios:
+      - name: "published"
+        field:
+          element: hidden
+          value: true
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+      - name: "project"
+        field:
+          element: "text"
+          label: "Project"
+          help: "Enter the project id"
+          placeholder: "project-id"
+      - name: "related"
+        field:
+          element: multiselect
+          label: "Related Scenarios"
+          help: "Select base scenarios or type a scenario id e.g. \"ssp2_gfdl\""
+          options:
+            - name: "SSP2-GFDL"
+              value: "ssp2_gfdl"
+            - name: "SSP2-HGEM"
+              value: "ssp2_hgem"
+            - name: "SSP2-MIROC"
+              value: "ssp2_miroc"
+            - name: "SSP2-IPSL"
+              value: "ssp2_ipsl"
+            - name: "SSP2-NoCC"
+              value: "ssp2_nocc"
+          alterable: true
+      - name: "outputsCommodShow"
+        field:
+          element: multiselect
+          label: "Outputs View Parameters (Commodity)"
+          help: "Select them from the dropdown or add your own. Only the first 12 will be used"
+          options:
+            - name: "Animal Numbers"
+              value: "anmlnumxagg"
+            - name: "Livestock Feed Demand"
+              value: "qlxagg"
+            - name: "Total Yield"
+              value: "tyldxagg"
+            - name: "Animal Yield"
+              value: "anmlyldxagg"
+            - name: "Food Availability"
+              value: "foodavailxagg"
+            - name: "Total Demand"
+              value: "qdxagg"
+            - name: "Export Share of Production"
+              value: "qeshxagg"
+            - name: "Household Demand"
+              value: "qfxagg"
+            - name: "Import Share of Demand"
+              value: "qmshxagg"
+            - name: "Net Trade Share of Production"
+              value: "qnsh1xagg"
+            - name: "Net Trade Share of Demand"
+              value: "qnsh2xagg"
+            - name: "Net Trade"
+              value: "qnxagg"
+            - name: "Commodity Supply"
+              value: "qsupxagg"
+            - name: "Total Area"
+              value: "tareaxagg"
+          alterable: true
+      - name: "outputsNonCommodShow"
+        field:
+          element: multiselect
+          label: "Outputs View Parameters (Non-commodity)"
+          help: "Select them from the dropdown or add your own. Only the first 12 will be used"
+          options:
+            - name: "Per Capita Calories"
+              value: "percapkcalxagg"
+            - name: "Population at Risk of Hunger"
+              value: "populationatriskxagg"
+            - name: "Total Malnourished Children"
+              value: "totalmalnourishedxagg"
+          alterable: true
+      - name: "mapParam"
+        field:
+          element: multiselect
+          label: "Map Parameters"
+          help: "Select them from the dropdown or add your own"
+          options:
+            - name: "Animal Numbers"
+              value: "anmlnumxagg"
+            - name: "Livestock Feed Demand"
+              value: "qlxagg"
+            - name: "Total Yield"
+              value: "tyldxagg"
+            - name: "Animal Yield"
+              value: "anmlyldxagg"
+            - name: "Food Availability"
+              value: "foodavailxagg"
+            - name: "Total Demand"
+              value: "qdxagg"
+            - name: "Export Share of Production"
+              value: "qeshxagg"
+            - name: "Household Demand"
+              value: "qfxagg"
+            - name: "Import Share of Demand"
+              value: "qmshxagg"
+            - name: "Net Trade Share of Production"
+              value: "qnsh1xagg"
+            - name: "Net Trade Share of Demand"
+              value: "qnsh2xagg"
+            - name: "Net Trade"
+              value: "qnxagg"
+            - name: "Commodity Supply"
+              value: "qsupxagg"
+            - name: "Total Area"
+              value: "tareaxagg"
+          alterable: true
+      - name: "mapDefaultGroup"
+        field:
+          element: select
+          label: "Default Map Group"
+          options:
+            - name: "Animal Products"
+              value: "animal_products"
+            - name: "Cereals"
+              value: "cereals"
+            - name: "Fruits and Vegetables"
+              value: "fruits_vegetables"
+            - name: "Oils"
+              value: "oils"
+            - name: "Food Oils"
+              value: "food_oils"
+            - name: "Oil Seeds"
+              value: "oils_seeds"
+            - name: "Oil Meals"
+              value: "oil_meals"
+            - name: "Other"
+              value: "other"
+            - name: "Pulses"
+              value: "pulses"
+            - name: "Roots and Tubers"
+              value: "roots_tubers"
+            - name: "Sugar"
+              value: "sugar"
+      - name: "mapDefaultParam"
+        field:
+          element: select
+          label: "Default Map Parameter"
+          options:
+            - name: "Animal Numbers"
+              value: "anmlnumxagg"
+            - name: "Livestock Feed Demand"
+              value: "qlxagg"
+            - name: "Total Yield"
+              value: "tyldxagg"
+            - name: "Animal Yield"
+              value: "anmlyldxagg"
+            - name: "Food Availability"
+              value: "foodavailxagg"
+            - name: "Total Demand"
+              value: "qdxagg"
+            - name: "Export Share of Production"
+              value: "qeshxagg"
+            - name: "Household Demand"
+              value: "qfxagg"
+            - name: "Import Share of Demand"
+              value: "qmshxagg"
+            - name: "Net Trade Share of Production"
+              value: "qnsh1xagg"
+            - name: "Net Trade Share of Demand"
+              value: "qnsh2xagg"
+            - name: "Net Trade"
+              value: "qnxagg"
+            - name: "Commodity Supply"
+              value: "qsupxagg"
+            - name: "Total Area"
+              value: "tareaxagg"
+      - name: "exploreDefaultGroup"
+        field:
+          element: select
+          label: "Default Explore View Group"
+          options:
+            - name: "Animal Products"
+              value: "animal_products"
+            - name: "Cereals"
+              value: "cereals"
+            - name: "Fruits and Vegetables"
+              value: "fruits_vegetables"
+            - name: "Oils"
+              value: "oils"
+            - name: "Food Oils"
+              value: "food_oils"
+            - name: "Oil Seeds"
+              value: "oils_seeds"
+            - name: "Oil Meals"
+              value: "oil_meals"
+            - name: "Other"
+              value: "other"
+            - name: "Pulses"
+              value: "pulses"
+            - name: "Roots and Tubers"
+              value: "roots_tubers"
+            - name: "Sugar"
+              value: "sugar"
+      - name: "exploreScenarioComp"
+        field:
+          element: select
+          label: "Explore View Comparison Scenario"
+          help: "Select a default comparison scenario"
+          options:
+            - name: "SSP2-GFDL"
+              value: "ssp2_gfdl"
+            - name: "SSP2-HGEM"
+              value: "ssp2_hgem"
+            - name: "SSP2-MIROC"
+              value: "ssp2_miroc"
+            - name: "SSP2-IPSL"
+              value: "ssp2_ipsl"
+            - name: "SSP2-NoCC"
+              value: "ssp2_nocc"
+      - name: "exploreRegAgg"
+        field:
+          element: select
+          label: "Explore View Regional Filter Level"
+          help: "Select a filter level (country, subcontinent, or continent) or \"None\" if no regional filtering is desired"
+          options:
+            - name: "None"
+              value: "''"
+            - name: "Country"
+              value: "region"
+            - name: "Subcontinent"
+              value: "agg_subcontinent"
+            - name: "Continent"
+              value: "agg_continent"
+      - name: "exploreRegionValue"
+        field:
+          element: text
+          label: "Explore View Regional Filter Value"
+          help: "Enter a value for the regional filter. e.g. \"usa\" or \"south_america\""
+          placeholder: "afg"
+      - name: mapAggregation
+        field:
+          element: text
+          label: "Map Aggregation File"
+          placeholder: "default.csv"
