@@ -1,4 +1,4 @@
-ifpri-impact-data
+# impact-model-projects
 =================
 
 This repository hosts information on projects and scenarios related to the IFPRI IMPACT model.
