@@ -1,5 +1,4 @@
-# impact-model-projects
-=================
+# IMPACT Model Project and Scenario Information
 
 This repository hosts information on projects and scenarios related to the IFPRI IMPACT model.
 
