@@ -1,6 +1,6 @@
 ---
 published: true
-title: "test-nic.md"
+title: "test-nic"
 tags: 
   - test
 scenarios: 
