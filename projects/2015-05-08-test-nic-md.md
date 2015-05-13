@@ -35,6 +35,6 @@ Corresponding author: Sherman Robinson - s.robinson@cgiar.org
 Global Futures Program Manager: Keith Wiebe - k.wiebe@cgiar.org
 
 
-ACKNOWLEDGMENTS
+ACKNOWLEDGEMENTS
 
 This study was supported by the Bill and Melinda Gates Foundation, the CGIAR Research Program on Policies, Institutions and Markets (PIM), and the CGIAR Research Program on Climate Change, Agriculture and Food Security (CCAFS).
