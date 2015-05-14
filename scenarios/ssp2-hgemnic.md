@@ -4,10 +4,10 @@ title: "SSP2-HGEMnic.md"
 mapDefaultGroup: cereals
 mapDefaultParam: tyldxagg
 exploreDefaultGroup: cereals
-exploreScenarioComp: ssp2_gfdl
-project: "2015-05-08-test-nic-md.md"
+exploreScenarioComp: ssp2_hgem
+project: "test-nic-GF.md"
 related: 
-  - ssp2_miroc
+  - ssp2_hgem
 outputsCommodShow: 
   - tyldxagg
   - foodavailxagg
@@ -38,7 +38,5 @@ mapParam:
   - tareaxagg
 exploreRegionValue: south_america
 ---
-
-
 
 this is a test but with real old-baseline data. See the scenarios here: D:\Users\ncenacchi\Documents\IMPACT 3 model\IMPACT webtool\impact-model-master\scenarios
