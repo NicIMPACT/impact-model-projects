@@ -9,7 +9,11 @@ scenarios:
   - "SSP2-IPSLnic"
 ---
 
+
 This projects simulates the adoption of improved crop varieties across various regions of the world. Effects of this adoption are estimated on agriculture productivity, in 2050 under assumptions of a current climate or under climate change conditions. Through modeling of changes in crop yields, the analysis also explains how the different varieties may affect food prices and trade flows.
+
+A wealth of technologies and practices are available to increase the resilience of agro-ecosystems to both abiotic and biotic stresses. In order to prioritize research and investments in agriculture, more work needs to be done to explore the potential of various technologies to increase agricultural productivity, and alleviate poverty and hunger, for specific crops and under specific local soil and climatic conditions. This analysis needs to be performed at various levels of aggregation, from global to national to sub-national scales. This study analyzes the effects of improved varieties of maize, rice, wheat, potato, sorghum, and groundnut, as a mean to adapt to climate change. Specifically the focus is on varieties with characters of drought tolerance, heat tolerance or a combination of the two. Analysis also includes the effects of crop protection measures, with a focus on the mealybug pest on cassava.
+
 
 METHODOLOGY
 
