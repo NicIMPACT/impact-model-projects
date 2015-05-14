@@ -21,4 +21,5 @@ mapParam:
   - qfxagg
 ---
 
-this is a test but with real data. See the scenarios here: D:\Users\ncenacchi\Documents\IMPACT 3 model\IMPACT webtool\impact-model-master\scenarios
+
+this is a test but with real old-baseline data. See the scenarios here: D:\Users\ncenacchi\Documents\IMPACT 3 model\IMPACT webtool\impact-model-master\scenarios
