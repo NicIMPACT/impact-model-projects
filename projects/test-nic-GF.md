@@ -2,16 +2,15 @@
 published: true
 title: "test-nic-GF"
 tags: 
-  - test
+  - baseline
 scenarios: 
   - SSP2_GFDL
+  - "ssp2-gfdlnic"
+  - "ssp2-hgemnic"
   - "ssp2-ipslnic"
   - "ssp2-mirocnic"
-  - "ssp2-gfdlnic"
   - "ssp2-noccnic"
 ---
-
-
 
 This projects simulates the adoption of improved crop varieties across various regions of the world. Effects of this adoption are estimated on agriculture productivity, in 2050 under assumptions of a current climate or under climate change conditions. Through modeling of changes in crop yields, the analysis also explains how the different varieties may affect food prices and trade flows.
 
