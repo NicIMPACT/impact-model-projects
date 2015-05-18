@@ -5,11 +5,11 @@ tags:
   - baseline
 scenarios: 
   - SSP2_GFDL
-  - "ssp2-gfdlnic"
-  - "ssp2-hgemnic"
-  - "ssp2-ipslnic"
-  - "ssp2-mirocnic"
-  - "ssp2-noccnic"
+  - ssp2_gfdlnic
+  - ssp2_noccnic
+  - ssp2_ipslnic
+  - ssp2_mirocnic
+  - ssp2_hgemnic
 ---
 
 
