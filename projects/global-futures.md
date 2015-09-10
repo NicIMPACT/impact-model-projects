@@ -41,6 +41,7 @@ scenarios:
   - SSP2_NoCC_DTOL_SOR
 ---
 
+
 The Global Futures project on promising technologies simulates the adoption of improved crop varieties across various regions of the world. Effects of this adoption are estimated on agricultural yields, production, harvested area, global food prices and trade flows, under assumptions of a current climate, and under climate change conditions. 
 
 METHODOLOGY
@@ -48,6 +49,8 @@ METHODOLOGY
 A wealth of technologies and practices are available to increase the resilience of agro-ecosystems to both abiotic and biotic stresses. In order to prioritize research and investments in agriculture, more work needs to be done to explore the potential of various technologies to increase agricultural productivity, and alleviate poverty and hunger, for specific crops and under specific local soil and climatic conditions. This analysis needs to be performed at various levels of aggregation, from global to national to sub-national scales. This study analyzes the effects of improved varieties of maize, rice, wheat, potato, sorghum, and groundnut, as a mean to adapt to climate change. Specifically the focus is on varieties with characters of drought tolerance, heat tolerance or a combination of the two. Analysis also includes the effects of crop protection measures, with a focus on the mealybug pest on cassava.
 
 The DSSAT suite of crop simulation models was used to represent improved crop varieties of maize, rice, wheat, sorghum, and groundnut, and estimate changes in yields following the adoption of these varieties in specific geographical areas of the world. For cassava, three different management options to control infestation from the mealybug pest were examined. The results were used as inputs to the IMPACT model system to determine the benefits from the new varieties under a no-climate-change baseline scenario (unchanged 2005 climate) and a climate change scenario using the global climate model from the Geophysical Fluid Dynamics Laboratory (GFDL). This scenario was chosen as representative of one of the driest futures from the various climate models—the idea being to test the new crop varieties in a worst-case scenario
+
+In this project, seven crops are included in the analysis (i.e. maize, rice, wheat, groundnut, sorghum and cassava) and adoption of improved varieties for these seven crops is simulated in specific countries (table below). Because of the limited geographical adoption of these improved varieties the magnitude of their effects is most likely to be significant in the countries and regions of adoption. The user should therefore pay particular attention to the IMPACT results relative to the countries of adoption and to the commodities affected by these varietal changes.
 
 The varieties are adopted in different regions according to the table below:
 
