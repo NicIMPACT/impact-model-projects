@@ -6,6 +6,15 @@ mapDefaultGroup: animal_products
 mapDefaultParam: anmlnumxagg
 exploreDefaultGroup: animal_products
 exploreScenarioComp: ssp2_gfdl
+project: ""
+related: null
+outputsCommodShow: null
+outputsNonCommodShow: null
+mapParam: null
+exploreRegAgg: ""
+exploreRegionValue: ""
+mapAggregation: ""
 ---
 
-In this scenario, a potato variety with both drought and heat tolerant traits is adopted throughout the target countries of adoption. Effects are simulated under no climate change, i.e. a climate representative of conditions around the year 2005.
+
+In this scenario, a potato variety with both drought and heat tolerant traits is adopted throughout the target countries of adoption. Effects are simulated under the GFDL climate change scenario.
