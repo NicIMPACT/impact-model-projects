@@ -47,6 +47,4 @@ mapAggregation: ""
 title: SSP2_NOCC_DTOL_MAIZE
 ---
 
-## A New Post
-
 In this scenario, a maize variety with drought tolerant traits is adopted throughout the target countries of adoption. Effects are simulated under no climate change, i.e. a climate representative of conditions around the year 2005.
