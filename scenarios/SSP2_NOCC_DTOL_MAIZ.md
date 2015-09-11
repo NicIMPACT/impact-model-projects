@@ -1,25 +1,26 @@
 ---
 published: true
 project: "global-futures"
-related: 
+related:
   - ssp2_nocc
-outputsCommodShow: 
+outputsCommodShow:
   - anmlnumxagg
   - qlxagg
   - tyldxagg
   - anmlyldxagg
   - foodavailxagg
   - qdxagg
-  - qeshxagg
   - qfxagg
-  - qmshxagg
+  - qnsh1xagg
+  - qnsh2xagg
+  - qnxagg
   - qsupxagg
   - tareaxagg
-outputsNonCommodShow: 
+outputsNonCommodShow:
   - percapkcalxagg
   - populationatriskxagg
   - totalmalnourishedxagg
-mapParam: 
+mapParam:
   - anmlnumxagg
   - qlxagg
   - tyldxagg
@@ -43,6 +44,5 @@ exploreRegionValue: ""
 mapAggregation: ""
 title: SSP2_NOCC_DTOL_MAIZ
 ---
-
 
 In this scenario, a maize variety with drought tolerant traits is adopted throughout the target countries of adoption. Effects are simulated under no climate change, i.e. a climate representative of conditions around the year 2005.
