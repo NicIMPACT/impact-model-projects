@@ -32,9 +32,9 @@ mapParam:
   - qnxagg
   - qsupxagg
   - tareaxagg
-mapDefaultGroup: cereals
+mapDefaultGroup: oils_seeds
 mapDefaultParam: tyldxagg
-exploreDefaultGroup: cereals
+exploreDefaultGroup: oils_seeds
 exploreScenarioComp: ssp2_gfdl
 exploreRegAgg: ""
 exploreRegionValue: ""
