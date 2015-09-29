@@ -44,4 +44,5 @@ mapAggregation: ""
 title: SSP2_NOCC_Mealybug_CASS
 ---
 
+
 In the mealybug cassava scenario, infestation of mealybug on cassava in the entire region under study is unchecked (China, India, Indonesia, Lao People’s Democratic Republic, Myanmar, Thailand). Effects are simulated under no climate change, i.e. a climate representative of conditions around the year 2005
