@@ -15,7 +15,10 @@ outputsCommodShow:
   - qmshxagg
   - qsupxagg
   - tareaxagg
-outputsNonCommodShow: null
+outputsNonCommodShow: 
+  - percapkcalxagg
+  - populationatriskxagg
+  - totalmalnourishedxagg
 mapParam: 
   - anmlnumxagg
   - qlxagg
@@ -40,5 +43,6 @@ exploreRegionValue: ""
 mapAggregation: ""
 title: SSP2_GFDL_CBIOL2_CASS
 ---
+
 
 The CBIOL2 cassava scenario simulates a situation where the remaining countries (after Thailand and China) in the region begin to adopt the control-treatment but with less efficacy than Thailand and China. Effects are simulated under the GFDL climate change scenario.
