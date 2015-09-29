@@ -22,7 +22,7 @@ mapParam:
   - qsupxagg
   - tareaxagg
 exploreRegAgg: agg_continent
-exploreRegionValue: africa
+exploreRegionValue: ""
 project: "global-futures"
 related: 
   - ssp2_gfdl
