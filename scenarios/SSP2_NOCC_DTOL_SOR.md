@@ -41,7 +41,8 @@ exploreScenarioComp: ssp2_nocc
 exploreRegAgg: ""
 exploreRegionValue: ""
 mapAggregation: ""
-title: SSP2_NOCC_DTOL_SOR
+title: SSP2_NoCC_DTOL_SOR
 ---
+
 
 In this scenario, a sorghum variety with drought tolerant traits is adopted throughout the target countries of adoption (Burkina Faso, Eritrea, Ethiopia, India, Mali, Nigeria, Sudan, United Republic of Tanzania). Effects are simulated under no climate change, i.e. a climate representative of conditions around the year 2005.
