@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 image: "https://cloud.githubusercontent.com/assets/306782/4652506/7c191516-54a5-11e4-8b51-5e9a8c363c4b.png"
 title: SSP2_GFDL_MealyBug_CASS
 mapDefaultGroup: roots_tubers
