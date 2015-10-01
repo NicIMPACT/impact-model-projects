@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 project: "global-futures"
 related: 
   - ssp2_gfdl
@@ -34,9 +34,9 @@ mapParam:
   - qnxagg
   - qsupxagg
   - tareaxagg
-mapDefaultGroup: cereals
+mapDefaultGroup: oils_seeds
 mapDefaultParam: tyldxagg
-exploreDefaultGroup: cereals
+exploreDefaultGroup: oils_seeds
 exploreScenarioComp: ssp2_gfdl
 exploreRegAgg: ""
 exploreRegionValue: ""
@@ -44,4 +44,4 @@ mapAggregation: ""
 title: SSP2_GFDL_D_H_Y_GN
 ---
 
-In this scenario, a high-yielding groundnut variety with both drought and heat tolerant traits is adopted throughout the target countries of adoption. Effects are simulated under the GFDL climate change scenario.
+In this scenario, a high-yielding groundnut variety with both drought and heat tolerant traits is adopted throughout the target countries of adoption (Burkina Faso, Ghana, India, Malawi, Mali, Myanmar, Niger, Nigeria, Uganda, United Republic of Tanzania, Viet Nam). Effects are simulated under the GFDL climate change scenario.
