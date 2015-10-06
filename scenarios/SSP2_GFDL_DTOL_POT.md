@@ -36,7 +36,7 @@ mapParam:
   - tareaxagg
 mapDefaultGroup: roots_tubers
 mapDefaultParam: tyldxagg
-exploreDefaultGroup: roots_tubers
+exploreDefaultGroup: cereals
 exploreScenarioComp: ssp2_gfdl
 exploreRegAgg: ""
 exploreRegionValue: ""
