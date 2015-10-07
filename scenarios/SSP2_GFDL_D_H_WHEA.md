@@ -47,4 +47,5 @@ mapAggregation: ""
 title: SSP2_GFDL_D_H_WHEA
 ---
 
-In this scenario, a wheat variety with both drought and heat tolerant traits is adopted throughout the target countries of adoption. Effects are simulated under the GFDL climate change scenario.
+
+In this scenario, a wheat variety with both drought and heat tolerant traits is adopted throughout the target countries of adoption (Argentina, South Africa). Effects are simulated under the GFDL climate change scenario.
