@@ -45,4 +45,5 @@ outputsNonCommodShow:
 mapAggregation: ""
 ---
 
-In this scenario, a maize variety with drought tolerant traits is adopted throughout the target countries of adoption. Effects are simulated under the GFDL climate change scenario.
+
+In this scenario, a maize variety with drought tolerant traits is adopted throughout the target countries of adoption (Angola, Benin, Ethiopia, Ghana, Kenya, Malawi, Mozambique, Uganda, United Republic of Tanzania, Zambia, Zimbabwe). Effects are simulated under the GFDL climate change scenario.
