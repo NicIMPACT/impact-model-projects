@@ -32,7 +32,7 @@ mapParam:
   - qnxagg
   - qsupxagg
   - tareaxagg
-mapDefaultGroup: oils_seeds
+mapDefaultGroup: roots_tubers
 mapDefaultParam: tyldxagg
 exploreDefaultGroup: oils_seeds
 exploreScenarioComp: ssp2_gfdl
@@ -41,5 +41,6 @@ exploreRegionValue: ""
 mapAggregation: ""
 title: SSP2_GFDL_HTOL_GN
 ---
+
 
 In this scenario, a groundnut variety with heat tolerant traits is adopted throughout the target countries of adoption (Burkina Faso, Ghana, India, Malawi, Mali, Myanmar, Niger, Nigeria, Uganda, United Republic of Tanzania, Viet Nam). Effects are simulated under the GFDL climate change scenario.
