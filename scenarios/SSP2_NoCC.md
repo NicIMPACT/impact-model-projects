@@ -16,7 +16,11 @@ outputsCommodShow:
   - wcd_s_cty
   - wci_s_cty
 outputsNonCommodShow: 
-  - "null"
+  - giwd_s_cty
+  - totalSupply_cty
+  - wcd_s_cty
+  - wci_s_cty
+  - wcl_s_cty
 mapParam: 
   - giwd_s_cty
   - totalSupply_cty
@@ -27,6 +31,7 @@ exploreRegAgg: ""
 exploreRegionValue: ""
 mapAggregation: ""
 ---
+
 
 
 
