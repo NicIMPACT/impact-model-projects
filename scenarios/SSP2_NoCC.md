@@ -12,25 +12,26 @@ related:
 outputsCommodShow: 
   - wcl_s_cty
   - giwd_s_cty
-  - totalSupply_cty
   - wcd_s_cty
   - wci_s_cty
+  - totalsupply_cty
 outputsNonCommodShow: 
   - giwd_s_cty
-  - totalSupply_cty
   - wcd_s_cty
   - wci_s_cty
   - wcl_s_cty
+  - totalsupply_cty
 mapParam: 
   - giwd_s_cty
-  - totalSupply_cty
   - wcd_s_cty
   - wci_s_cty
   - wcl_s_cty
+  - totalsupply_cty
 exploreRegAgg: ""
 exploreRegionValue: ""
 mapAggregation: ""
 ---
+
 
 
 
