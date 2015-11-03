@@ -1,0 +1,31 @@
+---
+published: true
+project: "IMPACT Baseline Scenarios - water results"
+related: 
+  - ssp2_gfdl
+  - ssp2_nocc
+outputsCommodShow: 
+  - greenwater
+  - bluewater
+outputsNonCommodShow: 
+  - giwd_s_cty
+  - totalsupply_cty
+  - wcd_s_cty
+  - wci_s_cty
+  - wcl_s_cty
+mapParam: 
+  - giwd_s_cty
+  - totalsupply_s_cty
+  - wcd_s_cty
+  - wci_s_cty
+  - wcl_s_cty
+mapDefaultGroup: cereals
+mapDefaultParam: tyldxagg
+exploreDefaultGroup: cereals
+exploreScenarioComp: ssp2_gfdl
+exploreRegAgg: ""
+exploreRegionValue: ""
+mapAggregation: ""
+---
+
+This scenario shows results for water parameters. This scenario uses the middle of the road population and GDP projections from the IPCC with historical climate projections. 
