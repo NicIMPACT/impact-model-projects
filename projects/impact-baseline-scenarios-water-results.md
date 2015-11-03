@@ -5,7 +5,7 @@ tags:
 image: ""
 scenarios: 
   - SSP2_NoCCwater
-title: "IMPACT Baseline Scenarios - water results"
+title: IMPACT Baseline Water
 ---
 
 
