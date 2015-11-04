@@ -16,13 +16,14 @@ mapParam:
   - greenwater
   - bluewater
 mapDefaultGroup: cereals
-mapDefaultParam: anmlnumxagg
-exploreDefaultGroup: animal_products
+mapDefaultParam: qsupxagg
+exploreDefaultGroup: cereals
 exploreScenarioComp: ssp2_gfdl
 exploreRegAgg: ""
 exploreRegionValue: ""
 mapAggregation: ""
 ---
+
 
 
 
