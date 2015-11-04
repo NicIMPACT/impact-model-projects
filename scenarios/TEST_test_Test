@@ -1,0 +1,19 @@
+---
+published: true
+project: "impact-baseline-water"
+related: null
+outputsCommodShow: 
+  - greenwater
+outputsNonCommodShow: null
+mapParam: 
+  - greenwater
+mapDefaultGroup: cereals
+mapDefaultParam: anmlnumxagg
+exploreDefaultGroup: animal_products
+exploreScenarioComp: ssp2_gfdl
+exploreRegAgg: ""
+exploreRegionValue: ""
+mapAggregation: ""
+---
+
+this is a new test
