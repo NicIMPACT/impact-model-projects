@@ -1,7 +1,8 @@
 ---
 published: true
 project: "impact-baseline-water"
-related: null
+related: 
+  - ssp2_nocc
 outputsCommodShow: 
   - greenwater
   - bluewater
@@ -22,5 +23,6 @@ exploreRegAgg: ""
 exploreRegionValue: ""
 mapAggregation: ""
 ---
+
 
 IMPACT baseline water results. Simulations under current climate conditions
