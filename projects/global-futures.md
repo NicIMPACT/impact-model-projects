@@ -43,7 +43,8 @@ scenarios:
 
 
 
-The Global Futures project on promising technologies simulates the adoption of improved crop varieties across various regions of the world. Effects of this adoption are estimated on agricultural yields, production, harvested area, global food prices and trade flows, under assumptions of a current climate, and under climate change conditions. 
+
+The Global Futures project on promising technologies simulates the adoption of improved agricultural technologies across various regions of the world. Effects of this adoption are estimated on agricultural yields, production, harvested area, global food prices and trade flows, under assumptions of a current climate, and under climate change conditions. 
 
 METHODOLOGY
 
@@ -74,15 +75,15 @@ The varieties are adopted in different regions according to the table below:
 
 AUTHORS AND COLLABORATORS
 
-This study is part of the Global Futures and Strategic Foresight Project (GFSF), a collaborative effort led by IFPRI in partnership with eleven other CGIAR Centers: CIAT, CIMMYT, CIP, ICARDA, ICRAF, ICRISAT, IITA, ILRI, IRRI, IWMI and WorldFish. Team members represent a wide range of disciplines and expertise, including agricultural economics, crop modeling, animal sciences, hydrology, natural resource management, geographic information systems and computer science. The team also collaborates with leading climate, crop, and economic modelers from a variety of other institutions around the world through the Agricultural Model Intercomparison and Improvement Project (AgMIP).
-More info on GFSF can be found at: http://globalfutures.cgiar.org/presentations-publications/
+This study is part of the Global Futures and Strategic Foresight Project (GFSF), a collaborative effort led by IFPRI in partnership with five other CGIAR Centers: CIAT, CIMMYT, CIP, ICRISAT, and IRRI. Team members represent a wide range of disciplines and expertise, including agricultural economics, crop modeling, animal sciences, hydrology, natural resource management, geographic information systems and computer science. The team also collaborates with leading climate, crop, and economic modelers from a variety of other institutions around the world through the Agricultural Model Intercomparison and Improvement Project (AgMIP).
+More info on GFSF can be found http://globalfutures.cgiar.org/
 
 - International Food Policy Research Institute (IFPRI): Sherman Robinson, Daniel Mason-D’Croz, Shahnila Islam, Richard Robertson, Arthur Gueneau, Nicola Cenacchi, Mark Rosegrant, and Keith Wiebe
 - Centro Internacional de Agricultura Tropical (CIAT): Bernardo Creamer
 - Centro Internacional de Mejoración de Maiz y Trigo (CIMMYT): Gbegbelegbe Sika
-- Centro Internacional de la Papa (CIP): Guy Hareau, Ulrich Kleinwechter (formerly from CIP)
+- Centro Internacional de la Papa (CIP): Guy Hareau, Ulrich Kleinwechter
 - International Crops Research Institute for the Semi-Arid Tropics (ICRISAT): Swamikannu Nedumaran
-- International Rice Research Institute (IRRI): Khondoker Mottaleb (formerly from IRRI)
+- International Rice Research Institute (IRRI): Khondoker Mottaleb
 
 CONTACTS
 
