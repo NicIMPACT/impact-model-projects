@@ -6,6 +6,15 @@ mapDefaultGroup: animal_products
 mapDefaultParam: anmlnumxagg
 exploreDefaultGroup: animal_products
 exploreScenarioComp: ssp2_gfdl
+project: ""
+related: null
+outputsCommodShow: null
+outputsNonCommodShow: null
+mapParam: null
+exploreRegAgg: ""
+exploreRegionValue: ""
+mapAggregation: ""
 ---
 
-This scenario uses the middle of the road population and GDP projections with the GCM climate data from Institute Pierre-Simon Laplace (IPSL).
+
+This scenario uses the IPCC middle of the road population and GDP projections (SSP2) with the GCM climate data from Institute Pierre-Simon Laplace (IPSL).
