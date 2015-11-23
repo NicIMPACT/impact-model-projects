@@ -12,10 +12,11 @@ scenarios:
   - SSP2_NoCC
 ---
 
+
 Latest release of estimates from the baseline suite of scenarios of the IFPRI International Model for Policy Analysis of Agricultural Commodities and Trade (IMPACT). The simulations run up to the year 2050, under assumptions of constant climate (baseline noCC), or under a range of climate change scenarios.
 
 METHODOLOGY
-The International Model for Policy Analysis of Agricultural Commodities and Trade (IMPACT) was developed at IFPRI at the beginning of the 1990s to address a lack of long-term vision and consensus among policy-makers and researchers about the actions that are necessary to feed the world in the future, reduce poverty, and protect the natural resource base. The model is typically used to perform scenario analysis in order to evaluate the effect of policy and technological choices on food supply and demand, trade and food security outcomes. A suite of baseline scenarios provides a reference point to estimate the consequences of changes in a number of inputs and drivers (e.g., changes in area or yield growth rates, etc). The baseline data presented here are the result of a major update in the release of the IMPACT model. The new baseline suite of scenarios is built around the SSP2 Shared Socioeconomic Pathway under 5 different possible climate change futures. SSP2 represents a middle of the road projection for population and GDP. The five climates that are used with SSP2 are NoCC, GFDL, MIROC, IPSL, and HGEM (Hadley). NoCC represents the effects of historical climate going into the future. The others represent various Global Circulation Models (GCMs).
+The International Model for Policy Analysis of Agricultural Commodities and Trade (IMPACT) was developed at IFPRI at the beginning of the 1990s to address a lack of long-term vision and consensus among policy-makers and researchers about the actions that are necessary to feed the world in the future, reduce poverty, and protect the natural resource base. The model is typically used to perform scenario analysis in order to evaluate the effect of policy and technological choices on food supply and demand, trade and food security outcomes. A suite of baseline scenarios provides a reference point to estimate the consequences of changes in a number of inputs and drivers (e.g., changes in area or yield growth rates, etc). The baseline data presented here are the result of a major update in the release of the IMPACT model. The new baseline suite of scenarios is built around the SSP2 Shared Socioeconomic Pathway, a middle of the road projection for population and GDP from the Intergovernmental Panel on Climate Change (IPCC). Climate change projections originate from running several global circulations models (GCMs) under a Representative Concentration Pathway (RCP) of 8.5 . The five GCMs that are used with SSP2 are NoCC, GFDL, MIROC, IPSL, and HGEM (Hadley). NoCC represents the effects of historical climate going into the future. 
 
 As presented in more details in the methodology section of this webtool, the IMPACT model is a partial equilibrium, multi–commodity, multi-country model which generates projections of global food supply, demand, trade, and prices. In IMPACT, each country is linked to the rest of the world through international trade and demand is a function of prices, income, and population growth. Crop production is determined by crop and input prices, the rate of productivity growth, and water availability.
 In the latest version of the IMPACT model, both the code and input data went through a major revision process. The main changes include:
@@ -30,12 +31,12 @@ In the latest version of the IMPACT model, both the code and input data went thr
 
 AUTHORS AND COLLABORATORS
 
-International Food Policy Research Institute (IFPRI): Sherman Robinson, Daniel Mason-D’Croz, Shahnila Islam, Arthur Gueneau, Mark Rosegrant
+International Food Policy Research Institute (IFPRI): Sherman Robinson; Daniel Mason-D’Croz; Shahnila Islam; Timothy B. Sulser; Richard Robertson; Tingju Zhu; Arthur Gueneau; Gauthier Pitois; Mark Rosegrant
 
 CONTACTS
 
-Sherman Robinson - s.robinson@cgiar.org
+IMPACT model team:  IFPRI-Impact-Model@cgiar.org
 
 ACKNOWLEDGEMENTS
 
-This work was supported by the Bill and Melinda Gates Foundation, the CGIAR Research Program on Policies, Institutions and Markets (PIM), and the CGIAR Research Program on Climate Change, Agriculture and Food Security (CCAFS).
+This work was done under the Global Futures & Strategi Foresight Program and was supported by the Bill and Melinda Gates Foundation, the CGIAR Research Program on Policies, Institutions & Markets (PIM), and the CGIAR Research Program on Climate Change, Agriculture and Food Security (CCAFS).
