@@ -16,6 +16,12 @@ mapParam:
   - qnsh1xagg
   - qnxagg
   - qsupxagg
+outputsCommodShow: null
+outputsNonCommodShow: null
+exploreRegAgg: ""
+exploreRegionValue: ""
+mapAggregation: ""
 ---
 
-This scenario uses the middle of the road population and GDP projections with the GCM climate data from the Hadley Centre for Climate Prediction and Research (Hadley).
+
+This scenario uses the IPCC middle of the road population and GDP projections (SSP2) with the GCM climate data from the Hadley Centre for Climate Prediction and Research (Hadley).
