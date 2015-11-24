@@ -50,6 +50,7 @@ scenarios:
 
 
 
+
 The Global Futures project on promising technologies simulates the adoption of improved agricultural technologies across various regions of the world. Effects of this adoption are estimated on agricultural yields, production, harvested area, global food prices and trade flows, under assumptions of a current climate, and under climate change conditions. 
 
 METHODOLOGY
@@ -99,3 +100,6 @@ CONTACTS
 ACKNOWLEDGEMENTS
 
 This study was supported by the Bill and Melinda Gates Foundation, the CGIAR Research Program on Policies, Institutions and Markets (PIM), and the CGIAR Research Program on Climate Change, Agriculture and Food Security (CCAFS).
+
+![CRP_PIM_Logo_Orange_WhiteText_VF.png]({{site.baseurl}}/projects/CRP_PIM_Logo_Orange_WhiteText_VF.png)
+
