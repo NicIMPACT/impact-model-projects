@@ -5,9 +5,9 @@ image: "https://cloud.githubusercontent.com/assets/306782/4651981/c44bd396-54a0-
 tags: 
   - "global-futures"
   - technologies
-  - pest control
-  - improved varieties
   - adaptation
+  - "improved-varieties"
+  - "pest-control"
 scenarios: 
   - SSP2_GFDL_CBIOL1_CASS
   - SSP2_GFDL_CBIOL2_CASS
@@ -44,6 +44,7 @@ scenarios:
   - SSP2_NOCC_MealyBug_CASS
   - SSP2_NoCC_DTOL_SOR
 ---
+
 
 
 
