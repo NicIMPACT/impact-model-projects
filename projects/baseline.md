@@ -9,8 +9,8 @@ scenarios:
   - SSP2_HGEM
   - SSP2_MIROC
   - SSP2_IPSL
-  - SSP2_NoCC
 ---
+
 
 
 Latest release of estimates from the baseline suite of scenarios of the IFPRI International Model for Policy Analysis of Agricultural Commodities and Trade (IMPACT). The simulations run up to the year 2050, under assumptions of constant climate (baseline noCC), or under a range of climate change scenarios.
